@@ -188,20 +188,6 @@ Repeat
 
 ---
 
-# 💻 Installation
-
-```bash
-git clone https://github.com/DSnext412-jpg/CalcHub.git
-
-cd CalcHub
-
-npm install
-
-npm run dev
-```
-
----
-
 # 📊 Development Status
 
 ```text
@@ -321,9 +307,4 @@ Open Pull Request 🚀
 <img src="https://streak-stats.demolab.com?user=DSnext412-jpg&theme=tokyonight&hide_border=true"/>
 
 ---
-
-### ⭐ If this project helped you, consider giving it a Star!
-
-**Made with ❤️ by Dipak Sonawane**
-
 </div>
